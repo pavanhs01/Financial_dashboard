@@ -200,13 +200,3 @@ This is implemented as a self-service upsert to `user_profiles` and is intended 
 - Improve chart performance and code splitting (bundle size)
 
 ---
-
-## License
-
-MIT
-
----
-
-## Author
-
-Built by: **Design Arena Agent**
